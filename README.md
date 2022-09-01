@@ -1,1 +1,2 @@
 # QSTP-2022_Intro-to-Deep-Learning
+This Project is done under Quark Summer Technical Projects (QSTP) BITS Goa. This project starts with the implementation of basic fundamental Machine Learning algorithms and then gradually migrates towards Deep learning involving implementation of several Neural Networks like FNN's, CNN's and the final task involves implementation of the research paper on Deep Convolution Generative Adversial Networks.
